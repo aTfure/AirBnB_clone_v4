@@ -159,8 +159,8 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 
 Fredrick Onyango - [Github](https://github.com/aTfure) / [Twitter](https://twitter.com/aTfure)
 
-Daniel Wachira Mutua Wachira - [Github](https://github.com/Wachira007)
+Daniel Wachira Mutua  - [Github](https://github.com/Wachira007) / [Twitter] (https://twitter.com/wac_h_ira)
 
-Second part of Airbnb: Joann Vuong
+
 ## License
 Public Domain. No copy write protection. 
